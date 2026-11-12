@@ -21,3 +21,13 @@ Este sistema de gestión interna diseñado para que los operadores y administrad
    git clone https://github.com/Quinchia2/POO_FinalProject_Quinchia_Narvaez
    cd POO_FinalProject_Quinchia_Narvaez
    ```
+
+2. **Compilar el código fuente**:
+   ```bash
+   javac -d bin src/**/*.java
+   ```
+
+3. **Ejecutar el sistema**:
+   ```bash
+   java -cp bin ui.Main
+   ```
